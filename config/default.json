@@ -1,0 +1,6 @@
+{
+  "port": "3001",
+  "db": {
+    "connectionString": "postgresql://postgres:todo-approve@1234@db.cenubaprlfgtmzhrcszc.supabase.co:5432/postgres"
+  }
+}
